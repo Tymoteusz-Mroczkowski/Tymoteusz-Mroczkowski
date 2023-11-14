@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Tymoteusz-Mroczkowski
-- 👀 I’m interested in AI & 3D graphics
-- 🌱 I’m currently studying at the University of Leeds
-- 💞️ I’m looking to collaborate on carrer-starter projects
-- 📫 You can reach me by email tymoteuszmroczkowski@outlook.com or DM me on Discord, I am Tymoteusz#4827
-- 🎨 My 3D portfolio is [here](https://tymen.artstation.com/)
+- Hi, I’m @Tymoteusz-Mroczkowski
+- I'm currently working as a Technical Student at [CERN](https://cern.ch) my git activity for that job can be seen [here](https://gitlab.cern.ch/tmroczko)
+- And studying Computer Science at the University of Leeds
+- I work in C++ and Python
+- My interests are AI & 3D graphics
+- You can reach me by email tymoteuszmroczkowski@outlook.com
+- My 3D art portfolio is [here](https://tymen.artstation.com/)
 
 <!---
 Tymoteusz-Mroczkowski/Tymoteusz-Mroczkowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
