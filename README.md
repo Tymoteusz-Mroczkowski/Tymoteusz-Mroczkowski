@@ -1,5 +1,5 @@
 - Hi, I’m @Tymoteusz-Mroczkowski
-- I'm currently working as a Technical Student at [CERN](https://cern.ch) my git activity for that job can be seen [here](https://gitlab.cern.ch/tmroczko)
+- Year of experience coding at [CERN](https://cern.ch) git activity for that job can be seen [here](https://gitlab.cern.ch/tmroczko)
 - And studying Computer Science at the University of Leeds
 - I work in C++ and Python
 - My interests are AI & 3D graphics
