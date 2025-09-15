@@ -1,6 +1,6 @@
 - Hi, I’m @Tymoteusz-Mroczkowski
 - Year of experience coding at [CERN](https://cern.ch) git activity for that job can be seen [here](https://gitlab.cern.ch/tmroczko)
-- And studying Computer Science at the University of Leeds
+- Master of Engineering in Computer Science with Artificial Intelligence from the University of Leeds
 - I work in C++ and Python
 - My interests are AI & 3D graphics
 - You can reach me by email tymoteuszmroczkowski@outlook.com
